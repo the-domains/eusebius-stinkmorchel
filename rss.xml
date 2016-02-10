@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Die ersehnte Zukunft oder der Untergang des Wesentlichen]]></title>
         <description><![CDATA[Die ersehnte Zukunft oder der Untergang des Wesentlichen]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/eusebius-stinkmorchel/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 01:32:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 10 Feb 2016 01:33:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/eusebius-stinkmorchel/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Zukunft]]></title>
-            <description><![CDATA[<article><h1>Zukunft</h1><p>Das Ende des postkapitalistischen Feudaltraumes oder wie die Finanzelite ihre Macht verliert.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/15984ab2-5037-4c2f-a927-1f30c0bac32c.jpg"></article>]]></description>
-            <link>undefinedzukunft/index.html</link>
+            <description><![CDATA[<article><h1>Zukunft</h1><p>Das Ende des postkapitalistischen Feudaltraumes oder wie die Finanzelite ihre Macht verliert.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c80cffcb11b5b2755b4292a3f0f5596b3d1c6eb.jpg"></article>]]></description>
+            <link>https://thegrid.ai/eusebius-stinkmorchel/zukunft/index.html</link>
             <guid isPermaLink="false">d532f2e4-ba7e-4b62-93c2-abd2c72e8982</guid>
-            <pubDate>Wed, 10 Feb 2016 00:55:48 GMT</pubDate>
+            <pubDate>Wed, 10 Feb 2016 00:59:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
